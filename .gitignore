@@ -1,0 +1,11 @@
+.DS_Store
+
+build/
+dist/
+*.egg-info/
+
+*.egg
+*.py[cod]
+*$py.class
+
+
